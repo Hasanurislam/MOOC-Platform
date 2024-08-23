@@ -29,8 +29,6 @@ The **MOOCPlatform** is a decentralized education platform built on the Ethereum
 
 ## Contract Address
 
-Once deployed, the MOOCPlatform contract can be interacted with using its deployed address. The address is assigned after deployment on the Ethereum network. For testing, you can deploy it on the Rinkeby or Goerli testnets. Replace the placeholder with the actual contract address after deployment.
-
 - **Testnet Address:** [0x5fcee5271c15efd2b718bc5b026fc8ccc4afb261]
 
 ## Future Scope
