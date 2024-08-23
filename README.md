@@ -3,7 +3,9 @@
 # MOOCPlatform Smart Contract
 
 ## Vision
-![image](https://github.com/user-attachments/assets/98ac126b-d54e-49d2-a001-253d7cb2fbbc)
+![image](https://github.com/user-attachments/assets/20a70950-7332-44cb-a5c1-d7897f52aa33)
+
+
 
 
 The **MOOCPlatform** is a decentralized education platform built on the Ethereum blockchain. It facilitates the creation, management, and enrollment of online courses. The contract allows course creators to add and update courses, while students can enroll, complete, and receive certifications for their courses. The platform aims to provide a transparent, secure, and efficient way to manage online learning and certifications.
@@ -31,7 +33,10 @@ The **MOOCPlatform** is a decentralized education platform built on the Ethereum
 
 ## Contract Address
 
-- **Testnet Address:** [0x5fcee5271c15efd2b718bc5b026fc8ccc4afb261]
+- **Testnet Address:** 0x5fcee5271c15efd2b718bc5b026fc8ccc4afb261
+- ![image](https://github.com/user-attachments/assets/efc1a590-d06d-49f5-8b74-e77644647eb8)
+
+
 
 ## Future Scope
 
